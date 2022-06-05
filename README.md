@@ -3,4 +3,4 @@ This is a clone of the old starbucks website made by me, having a mobile version
 My goal is to keep improving it, as I learn to program. 
 Feel free to help me and give me ideas.
 
-at this momenti, i'm usign html 5 and css3 with mobile first idea and and a separate desktop version of mobile.
+At this momenti, i'm usign html 5 and css3 with mobile first idea and and a separate desktop version of mobile.
